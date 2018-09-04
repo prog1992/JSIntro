@@ -1,1 +1,2 @@
 # JSIntro
+# Author: Philip Rogers
